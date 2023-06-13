@@ -24,7 +24,7 @@ header img {
 .logo-right {margin-left: 100px;}
 
 main {
-	font-family: "Trebuchet MS", sans-serif;
+	font-family: Montserrat;
 	font-size: 17px;
 }
 
@@ -35,7 +35,7 @@ main {
 	position: absolute;
 	top: 100px;
 	left: 80px;
-	font-family: Chalkduster, fantasy;
+	font-family: Montserrat;
 	font-stretch: expanded;
 	font-size: 300px;
 	color: #f853b9;
@@ -46,7 +46,7 @@ main {
 	position: absolute;
 	top: 350px;
 	left: 80px;
-	font-family: Chalkduster, fantasy;
+	font-family: Montserrat;
 	font-stretch: expanded;
 	font-size: 300px;
 	color:  #f853b9;
@@ -55,7 +55,7 @@ main {
 .left {
 	color:  #f853b9;
 	font-size: 125px;
-	font-family: Chalkduster, fantasy;
+	font-family: Montserrat, fantasy;
 }
 
 .infoblock {
